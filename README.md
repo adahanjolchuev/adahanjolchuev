@@ -1,4 +1,4 @@
-# Hello! 👋 My name is Adahan
+# Hello! 👋 My name is Adahan Jolchuev
 
 Welcome to my GitHub profile. Here, you can find my projects and experiments in web development.
 
@@ -16,7 +16,8 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical&langs_count=4)
+
 
 ---
 
