@@ -5,7 +5,7 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ---
 
 ## 👨‍💻 About Me  
-- 🌍 I am from Batken region, Kyrgyzstan.
+- 🌍 I am from Batken region, Kyrgyzstan.  
 - 💼 Frontend Developer.  
 - 🌱 Constantly learning new technologies: currently focusing on **TypeScript** and **Next.js**.  
 - 🏢 Interned at **Tez Kabar**.  
@@ -18,34 +18,42 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical&langs_count=10)
 
+---
 
-<!-- Custom Top Languages Image -->
-![Top Languages](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Top Languages](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+## 🚀 Technologies I Use
+
+- **Frontend:** React, Next.js, TypeScript, SCSS, HTML, CSS  
+- **Tools:** Git, Redux Toolkit, RTK Query, Vite Js, Firebase  
+- **Others:** GraphQL, Node.js  
 
 ---
 
+## 🛠️ My Skills
 
-## 🛠️ Technologies I Use
+**Frontend Development**:  
+- React, Next.js, TypeScript, HTML, CSS, SCSS
 
-- **Frontend:** React, Next.js, TypeScript, SCSS, HTML, CSS  
-- **Tools:** Git, Redux Toolkit, RTK Query, Vite Js
-- 
+**Backend Technologies**:  
+- Node.js, GraphQL, Firebase
 
-### 🚀 Technology Badges
+**Tools & Libraries**:  
+- Redux Toolkit, RTK Query, Git, Vite, Firebase
 
-<p align="center">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-</p>
+---
 
+## 🌟 My Projects
 
+Here are a few of my favorite projects:
 
+- [**Project 1**](https://github.com/Adahan007/project1) - A beautiful portfolio website built with Next.js.
+- [**Project 2**](https://github.com/Adahan007/project2) - A mobile-first e-commerce app using React.
 
+---
+
+## 📈 GitHub Metrics
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Adahan007&theme=onedark&column=7)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)
 
 ---
 
@@ -54,9 +62,7 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 - [LinkedIn](https://www.linkedin.com/in/adahanjolchuev/)  
 - 📧 Email: adahanjolchuev@gmail.com  
 - [Instagram](https://www.instagram.com/adahan.jolchuev/)  
-- [WhatsApp](https://wa.me/996770670327)  
-
-  
+- [WhatsApp](https://wa.me/996770670327)
 
 ---
 
@@ -68,11 +74,19 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 
 ---
 
+## 🌍 Fun Facts
+
+- **Coffee Enthusiast ☕**: Can’t start my day without a good cup of coffee!
+- **Traveler 🌍**: Always exploring new places and cultures.
+- **Lifelong Learner 📚**: Always eager to learn new things and improve my skills.
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
 
-Thank you for visiting my profile! 😊 I hope you found something interesting here.  
-🌟 Don't forget to leave a ⭐ on projects you like!
+Thank you for visiting my profile! 😊  
+Feel free to explore my repositories and don't forget to leave a ⭐ on projects you like!  
