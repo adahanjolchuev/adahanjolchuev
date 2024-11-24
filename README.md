@@ -18,10 +18,8 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
 
 <!-- Custom Top Languages Image -->
-![Top Languages](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![Top Languages](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Top Languages](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![Top Languages](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -37,6 +35,10 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+
+
 
 ---
 
