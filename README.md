@@ -16,9 +16,15 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical&langs_count=4)
+
+<!-- Custom Top Languages Image -->
+![Top Languages](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Top Languages](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Top Languages](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![Top Languages](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
 
 ## 🛠️ Technologies I Use
 
