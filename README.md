@@ -18,12 +18,11 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical&langs_count=4)
 
-
 ---
 
 ## 🛠️ Technologies I Use
 
-- **Frontend:** React, Next.js, TypeScript, SCSS  
+- **Frontend:** React, Next.js, TypeScript, SCSS, HTML, CSS  
 - **Backend:** Node.js, Express  
 - **Tools:** Git, Redux Toolkit, RTK Query  
 - **Design:** Figma, Adobe Photoshop  
