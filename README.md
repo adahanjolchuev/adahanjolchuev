@@ -4,7 +4,7 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 - 🌍 I am from Batken region, Kyrgyzstan.  
 - 💼 Frontend Developer.  
 - 🌱 Constantly learning new technologies: currently focusing on **TypeScript** and **Next.js**.  
@@ -29,9 +29,7 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 🛠️ Technologies I Use
 
 - **Frontend:** React, Next.js, TypeScript, SCSS, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Tools:** Git, Redux Toolkit, RTK Query  
-- **Design:** Figma, Adobe Photoshop  
+- **Tools:** Git, Redux Toolkit, RTK Query, Vite Js 
 
 ### 🚀 Technology Badges
 
@@ -42,19 +40,13 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 
 ---
 
-## 🌟 Featured Projects
-
-- [ADAL-Website-1](https://github.com/Adahan007/ADAL-Website-1) — A responsive website built with Next.js and SCSS.  
-- [next-js-portfolio](https://github.com/Adahan007/next-js-portfolio) — My personal portfolio website.  
-- [next-js-scanner](https://github.com/Adahan007/next-js-scanner) — Barcode scanner built with QuaggaJS.  
-
----
-
 ## 📫 How to Reach Me?
 
-- [Telegram](https://t.me/adahanbatken)  
-- [LinkedIn](https://linkedin.com/in/adahanbatken)  
-- 📧 Email: adahan@example.com  
+- [LinkedIn](https://www.linkedin.com/in/adahanjolchuev/)  
+- 📧 Email: adahanjolchuev@gmail.com
+- [Instagram]:(https://www.instagram.com/adahan.jolchuev/)
+- [Whatsapp]:(+996770670327)
+  
 
 ---
 
