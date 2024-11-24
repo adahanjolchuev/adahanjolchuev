@@ -5,7 +5,7 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ---
 
 ## 👨‍💻 About Me  
-- 🌍 I am from Batken region, Kyrgyzstan.  
+- 🌍 I am from Batken region, Kyrgyzstan.
 - 💼 Frontend Developer.  
 - 🌱 Constantly learning new technologies: currently focusing on **TypeScript** and **Next.js**.  
 - 🏢 Interned at **Tez Kabar**.  
@@ -27,7 +27,8 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 🛠️ Technologies I Use
 
 - **Frontend:** React, Next.js, TypeScript, SCSS, HTML, CSS  
-- **Tools:** Git, Redux Toolkit, RTK Query, Vite Js 
+- **Tools:** Git, Redux Toolkit, RTK Query, Vite Js
+- 
 
 ### 🚀 Technology Badges
 
@@ -45,9 +46,10 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 📫 How to Reach Me?
 
 - [LinkedIn](https://www.linkedin.com/in/adahanjolchuev/)  
-- 📧 Email: adahanjolchuev@gmail.com
-- [Instagram]:(https://www.instagram.com/adahan.jolchuev/)
-- [Whatsapp]:(+996770670327)
+- 📧 Email: adahanjolchuev@gmail.com  
+- [Instagram](https://www.instagram.com/adahan.jolchuev/)  
+- [WhatsApp](https://wa.me/996770670327)  
+
   
 
 ---
