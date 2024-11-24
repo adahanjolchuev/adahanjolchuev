@@ -16,6 +16,8 @@ Welcome to my GitHub profile. Here, you can find my projects and experiments in 
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adahan007&layout=compact&theme=radical&langs_count=5)
+
 
 <!-- Custom Top Languages Image -->
 ![Top Languages](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
