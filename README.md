@@ -1,29 +1,29 @@
-🌀 Welcome to My World! I'm Adahan Jolchuev 🌟
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" /> </div>
-Hi there! 👋 I'm a passionate Frontend Developer from the beautiful Batken region 🇰🇬. Let's create something amazing together 🚀.
+# 👋 Привет, я Адахан!
 
-🌟 Who Am I?
-I'm Adahan Jolchuev, a dedicated Frontend Developer from the Batken region, Kyrgyzstan 🇰🇬, constantly learning and growing.
+🎯 **Фронтенд-разработчик** с опытом в Next.js, React и TypeScript. 
+🔥 Постоянно учусь и развиваюсь в веб-разработке.
 
-💻 Currently mastering TypeScript and Next.js.
-🎯 My goal is to become an expert in building interactive, user-friendly interfaces.
-🛠️ Technologies I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,scss,html,css,vite,redux,git&theme=light" alt="Technologies I Use" /> </p>
-🚀 Dynamic Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Adahan007&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adahan007&theme=radical" alt="GitHub Streak" /> </p>
-✨ Fun Animated Badges
-<div align="center"> <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg" alt="Activity Graph" /> <img src="https://github-profile-trophy.vercel.app/?username=Adahan007&theme=radical&no-frame=true&column=7" alt="Trophies" /> </div>
-🌍 Fun Facts
-✈️ I love solving complex coding challenges while dreaming of traveling the world.
-☕ Coffee fuels my passion for coding!
-<div align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Fun Fact Animation" /> </div>
-📬 Get In Touch
-📧 Email: adahanjolchuev@gmail.com
-🌐 LinkedIn
-📱 WhatsApp
-📸 Instagram
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-— Martin Fowler
+---
 
-Thank you for visiting my profile! 😊 Feel free to explore my repositories and leave a ⭐ if you like my work!
+## 📚 Мои навыки:
+- **Языки**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **Фреймворки**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- **Стилизация**: ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+- **Инструменты**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
+---
+
+## 📈 Статистика:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Контакты:
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Telegram](https://t.me/your-username)
+- [Личный сайт](https://your-website.com)
+
+---
+
+> *"Дорогу осилит идущий."* 🚀
