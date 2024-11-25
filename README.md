@@ -13,30 +13,30 @@
 ---
 
 ## 🛠️ Технологии и инструменты:
-<p align="flex">
- 
- ### **Языки программирования:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center" style="display: flex; align-items: center;">
+  <h3>**Языки программирования:**</h3>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
-### **Фреймворки и библиотеки:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
-![Zustand](https://img.shields.io/badge/-Zustand-6E8B3D?style=flat&logo=zustand&logoColor=white)
+  <h3>**Фреймворки и библиотеки:**</h3>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zustand-6E8B3D?style=flat&logo=zustand&logoColor=white" />
 
-### **Стилизация:**
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) 
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+  <h3>**Стилизация:**</h3>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white" />
 
-### **Инструменты разработки:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+  <h3>**Инструменты разработки:**</h3>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="auto"/>
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="auto"/>
+</div>
+
 ---
 
 ## 🌟 Мои проекты:
