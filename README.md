@@ -13,7 +13,8 @@
 ---
 
 ## 🛠️ Технологии и инструменты:
-<div align="center" style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
+ 
   <h3>**Языки программирования:**</h3>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
