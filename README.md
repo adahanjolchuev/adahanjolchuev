@@ -13,7 +13,8 @@
 ---
 
 ## 🛠️ Технологии и инструменты:
-### **Языки программирования:**
+<p display="flex">
+ ### **Языки программирования:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
@@ -34,6 +35,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="auto"/>
+</p>
 ---
 
 ## 🌟 Мои проекты:
