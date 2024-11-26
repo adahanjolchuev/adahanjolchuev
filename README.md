@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
 
 <p align="left">
-  <img align="left" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto"/>
 </p>
 
 ---
