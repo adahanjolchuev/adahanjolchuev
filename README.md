@@ -13,30 +13,32 @@
 ---
 
 ## 🛠️ Технологии и инструменты:
-
-  <h3>**Языки программирования:**</h3>
+<div style="text-align: left;">
+  <h3><b>Языки программирования:</b></h3>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
-  <h3>**Фреймворки и библиотеки:**</h3>
+  <h3><b>Фреймворки и библиотеки:</b></h3>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zustand-6E8B3D?style=flat&logo=zustand&logoColor=white" />
 
-  <h3>**Стилизация:**</h3>
+  <h3><b>Стилизация:</b></h3>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white" />
 
-  <h3>**Инструменты разработки:**</h3>
+  <h3><b>Инструменты разработки:</b></h3>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
 
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto"/>
-</p>
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto" />
+  </div>
+</div>
+
 
 ---
 
