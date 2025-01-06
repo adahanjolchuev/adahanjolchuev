@@ -15,6 +15,8 @@
  
 
 ## 🛠️ Технологии и инструменты:
+<div display="flex">
+<p>
  <h3><b>Языки программирования:</b></h3>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -34,10 +36,10 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto" />
 </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" height="auto" />
  
+</div>
 
 
 
